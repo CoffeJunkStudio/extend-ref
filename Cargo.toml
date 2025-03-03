@@ -2,5 +2,10 @@
 name = "extend-ref"
 version = "0.1.0"
 edition = "2024"
+description = "A wrapper struct that implements `Extend` for mutable references"
+
+repository = "https://github.com/CoffeJunkStudio/extend-ref"
+readme = "README.md"
+license = "Apache-2.0"
 
 [dependencies]
